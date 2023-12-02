@@ -29,4 +29,3 @@ Programa que usa un TDA llamado maxqueue el cual se comporta como una cola pero 
 @param "<.>" Cada punto que aparezca retira el elemento del principio de la cola
 
 
-*/
